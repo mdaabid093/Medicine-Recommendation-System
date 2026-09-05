@@ -118,3 +118,6 @@ The app will be available at `http://localhost:5000/`.
 - [ ] Turn off `debug=True` for production use
 - [ ] Add a `.gitignore` (avoid committing user-uploaded files in `uploads/`)
 - [ ] Add a LICENSE file
+
+## Author
+**Aabid** — [GitHub](https://github.com/mdaabid093)
