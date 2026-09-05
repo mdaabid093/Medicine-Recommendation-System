@@ -6,7 +6,10 @@ A Flask web application that predicts a likely disease from a set of symptoms us
 
 ## Features
 
-
+**Disease Prediction**
+- Symptom-based disease prediction using a trained SVM classifier
+- Returns disease description, precautions, medications, recommended diet, and workout suggestions
+- Severity classification (low / medium / high) based on the predicted disease
 
 **Patient Portal**
 - Registration and login
@@ -115,6 +118,3 @@ The app will be available at `http://localhost:5000/`.
 - [ ] Turn off `debug=True` for production use
 - [ ] Add a `.gitignore` (avoid committing user-uploaded files in `uploads/`)
 - [ ] Add a LICENSE file
-
-## Author
-**Aabid** — [GitHub](https://github.com/mdaabid093)
